@@ -22,3 +22,6 @@ Here are some ideas to get you started:
  /_/  |_||_\___|_|_\___( )   \_/\_/\___/_| |_\__,_(_)
                        |/                            
 ```
+
+![github stats](https://github-readme-stats.vercel.app/api?username=pobyzaarif&show_icons=true)
+
