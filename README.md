@@ -23,5 +23,5 @@ Here are some ideas to get you started:
                        |/                            
 ```
 
-![github stats](https://github-readme-stats.vercel.app/api?username=pobyzaarif&show_icons=true)
+i have no time to edit this page T.T
 
